@@ -2,6 +2,10 @@
 * This code was written for the first mission of TUBİTAK UAV 2020 for rotary wing UAVs
 * With this code, you can simply make your UAV (Unmanned Aerial Vehicle) follow a set of waypoints (latitude, longitude)
 
+# First Mission Description
+ * We were asked to follow a pattern, which is shown below, with the UAV
+ 
+
 # 🚀 Tech Stack
 * Dronekit (Python library for writing apps for UAVs)
 * Raspberry Pi 3 (As the companion computer which the code above run on it)
