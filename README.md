@@ -3,8 +3,8 @@
 * With this code, you can simply make your UAV (Unmanned Aerial Vehicle) follow a set of waypoints (latitude, longitude)
 
 # First Mission Description
- * We were asked to follow a pattern, which is shown below, with the UAV
- 
+ * We were asked to follow a pattern, which is shown in below link, with the UAV
+ * https://github.com/hakki264ulku/TUBITAK-UAV-2020/blob/main/g%C3%B6rev1.bmp.png
 
 # 🚀 Tech Stack
 * Dronekit (Python library for writing apps for UAVs)
